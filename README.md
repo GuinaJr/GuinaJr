@@ -22,6 +22,6 @@
   <a href = "mailto:jrbenicio28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aguinaldo-pontes-pereira-junior-85120b256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![github-contribution-grid-snake-dark](https://github.com/GuinaJr/GuinaJr/assets/156974326/f522ba46-5ad0-4d19-b426-b8497e69c79c)
+
 
 
